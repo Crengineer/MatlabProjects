@@ -1,0 +1,1 @@
+% Plot directly from Workspace: plot(out.SimulOut.data)
